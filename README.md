@@ -1,5 +1,7 @@
 # Anaphora_and_Coreference_Resolution_Papers
-> In this repo, we list some related work on Anaphora and Coreference Resolution. Corrections and suggestions are welcomed. 
+> In this repo, we list some related work on Anaphora and Coreference Resolution. Corrections and suggestions are welcomed. Contributed by [Jishun Zhao](https://github.com/DgCtRbt).
+
+
 
 ## Review article
 
