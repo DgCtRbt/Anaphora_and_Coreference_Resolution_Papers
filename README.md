@@ -19,4 +19,4 @@
 
 3. [Proceedings of the Third Workshop on Computational Models of Reference, Anaphora and Coreference](https://aclanthology.org/2020.crac-1.0.pdf)
 
-4. [Proceedings of the Fourth Workshop on Computational Models of Reference, Anaphora and Coreference](
+4. [Proceedings of the Fourth Workshop on Computational Models of Reference, Anaphora and Coreference](https://aclanthology.org/2021.crac-1.0.pdf)
